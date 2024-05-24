@@ -1,5 +1,4 @@
 # osticket-prereqs
-Here's a similar passage with different content:
 
 ---
 
